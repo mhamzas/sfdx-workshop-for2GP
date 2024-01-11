@@ -1,8 +1,8 @@
 ---
-title: "Building Managed 1GP with Salesforce DX"
+title: "Building Managed 2GP with Salesforce DX"
 permalink: /
 excerpt: "Excerpt TBA"
-last_modified_at: 2019-05-29
+last_modified_at: 2024-01-12
 toc: false
 classes: wide
 ---
@@ -38,5 +38,5 @@ This unit will walk you through the process of retrieving your package's metadat
 ### UNIT 6: Develop Your Managed Package in a Scratch Org (~20 minutes)
 This unit will walk you through the typical Salesforce DX development lifecycle.  In it you'll create a scratch org, push SFDX source to it, make declarative changes to your app, then pull those changes back into your local project files.
 
-### UNIT 7: Update, Upload, and Install Your Managed Package (~20 minutes)
+### UNIT 7: Create Unlocked Package and Version (~20 minutes)
 In this final unit, you'll learn how an ISV Partner can use Salesforce DX to "close the circle" by getting your updated code back into your packaging org, and even uploading it as a new managed package version.

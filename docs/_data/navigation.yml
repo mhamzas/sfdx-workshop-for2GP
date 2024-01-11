@@ -2,7 +2,7 @@
 main:
   - title: "Prerequisites"
     url: /prerequisites/overview/
-  - title: "Building Managed 1GP with SFDX"
+  - title: "Building Managed 2GP with SFDX"
     url: /
 # Commented out until this module can be rebuilt for public consumption
 #  - title: "Team Development with SFDX"
@@ -23,7 +23,7 @@ workbook_0:
 
 # Workbook 1 (Managed Packages with SFDX)
 workbook_1:
-  - title: "Building Managed 1GP with Salesforce DX"
+  - title: "Building Managed 2GP with Salesforce DX"
     children: 
       - title: "Workbook Overview"
         url: /
@@ -114,7 +114,7 @@ workbook_1:
       - title: "Pull Declarative Changes From Your Scratch Org"
         url: /sfdx-managed-packages/pull-changes-from-scratch-org/
 
-  - title: "Unit 7: Update, Upload, and Install Your Managed Package"
+  - title: "Unit 7: Create Unlocked Package and Version"
     children: 
       - title: "Unit Overview"
         url: /sfdx-managed-packages/unit-7-overview/
