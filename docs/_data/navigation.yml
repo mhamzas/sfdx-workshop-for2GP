@@ -118,10 +118,10 @@ workbook_1:
     children: 
       - title: "Unit Overview"
         url: /sfdx-managed-packages/unit-7-overview/
-      - title: "Prepare Your SFDX Source for Conversion"
-        url: /sfdx-managed-packages/prepare-sfdx-source-for-conversion/
-      - title: "Convert SFDX Source to MDAPI Source"
-        url: /sfdx-managed-packages/convert-sfdx-source-to-mdapi-source/
+      - title: "Create the Package"
+        url: /sfdx-managed-packages/create-the-package/
+      - title: "Create Package Version"
+        url: /sfdx-managed-packages/create-package-version/
       - title: "Deploy to Your Packaging Org"
         url: /sfdx-managed-packages/deploy-to-your-packaging-org/
       - title: "Use the CLI to Upload a \"Managed Beta\" Version of Your Package"

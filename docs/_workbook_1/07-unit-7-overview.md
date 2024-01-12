@@ -1,5 +1,5 @@
 ---
-title: "Unit 7: Update, Upload, and Install Your Managed Package"
+title: "Unit 7: Create Unlocked Package and Version"
 permalink: /sfdx-managed-packages/unit-7-overview/
 excerpt: "Excerpt TBA"
 last_modified_at: 2018-11-14
@@ -9,6 +9,9 @@ classes: wide
 
 **Time Check:** This unit has five exercises and should take approximately 20 minutes to complete.
 {: .notice--success}
+
+**NOTE:** This video is for 1GP Packaging i.e an old method , watch it for learning purposes only.
+{: .notice--warning}
 
 <!-- Put this wherever you would like your player to appear -->
 <img
@@ -21,7 +24,9 @@ classes: wide
   data-chapter="8"
 />
 
-In this final unit, you'll learn how an ISV Partner can use Salesforce DX to "close the circle" by getting your updated code back into your packaging org, and even uploading it as a new managed package version.
+In this final unit, you'll learn how an ISV Partner can use Salesforce DX to "close the circle" by getting your updated code and a new managed/Unlocked package version.
+
+For Worflow of the Packaging in 2GP, learn more here: https://developer.salesforce.com/docs/atlas.en-us.pkg2_dev.meta/pkg2_dev/sfdx_dev_dev2gp_workflow.htm
 
 <!--
 ### Prepare Your SFDX Source for Conversion
